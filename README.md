@@ -1,6 +1,8 @@
 # React-Google-SignIn-SignOut-Demo
 
-Introduce how to integrate Google Sign-In, Sign-Out to React App and get AccessToken
+Introduce how to integrate Google Sign-In, Sign-Out to React App and get AccessToken  
+  
+![https://github.com/ZoeLiao/React-Google-SignIn-SignOut-Demo/blob/master/demo.gif](https://github.com/ZoeLiao/React-Google-SignIn-SignOut-Demo/blob/master/demo.gif)
 
 ## Set Up
 - Create Google Client ID and copy to src/GoogleBtn.js
@@ -10,4 +12,4 @@ Introduce how to integrate Google Sign-In, Sign-Out to React App and get AccessT
 
 ## Medium
 For more information, please read:
-- [https://medium.com/@zoejoyuliao/add-google-sign-in-and-sign-out-to-your-react-app-and-get-the-accesstoken-2ee16bfd8297](https://medium.com/@zoejoyuliao/add-google-sign-in-and-sign-out-to-your-react-app-and-get-the-accesstoken-2ee16bfd8297)
+- [Medium - Add Google Sign-In and Sign-Out to your React App and get the AccessToken](https://medium.com/@zoejoyuliao/add-google-sign-in-and-sign-out-to-your-react-app-and-get-the-accesstoken-2ee16bfd8297)
